@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.e53f7bde.css",
+    "main.css": "/static/css/main.cf934a41.css",
     "main.js": "/static/js/main.7a31f832.js",
     "static/media/justice-woman-desk.png": "/static/media/justice-woman-desk.c6d98908c86dcc46898f.png",
     "static/media/justice-woman.png": "/static/media/justice-woman.974bdb334cc32be7b28f.png",
     "static/media/img-background-2.png": "/static/media/img-background-2.e52e2f39adad3932c0d2.png",
     "index.html": "/index.html",
-    "main.e53f7bde.css.map": "/static/css/main.e53f7bde.css.map",
+    "main.cf934a41.css.map": "/static/css/main.cf934a41.css.map",
     "main.7a31f832.js.map": "/static/js/main.7a31f832.js.map"
   },
   "entrypoints": [
-    "static/css/main.e53f7bde.css",
+    "static/css/main.cf934a41.css",
     "static/js/main.7a31f832.js"
   ]
 }
